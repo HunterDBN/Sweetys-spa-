@@ -1,7 +1,7 @@
 name: Fetch social images
 on:
   push:
-    branches: [claude/project-thread-71ovwj]
+    branches: [claude/project-thread-71ovwj, claude/project-thread-b2aiiz]
     paths: [social/urls.txt]
 permissions:
   contents: write
